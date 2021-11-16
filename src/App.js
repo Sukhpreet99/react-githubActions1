@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
 
-        <h1>Hello World !!</h1>
+        <h1>Hello World !! Let's Learn React</h1>
         <h3>Automatic Deployment Tutorial</h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
